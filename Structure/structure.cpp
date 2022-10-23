@@ -7,6 +7,12 @@ struct students
     char name[15];
     char address[50];
 };
+//Alternative option
+typedef struct{
+int id;
+    char name[15];
+}(books);
+
 int main()
 {
 //declaration structure
@@ -20,6 +26,15 @@ strcpy(s.address, "Nayapara, Kashimpur, gazipur.");
 cout << s.roll <<"\n";
 puts(s.name);
 puts(s.address);
+
+//Alternative declaration & initialization
+// where no need to struct keyword in declaration
+books book;
+book.id = 1001;
+strcpy(book.name, "c++");
+cout << book.id <<"\n";
+puts(book.name);
+
 
     return 0;
 }
