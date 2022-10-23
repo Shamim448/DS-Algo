@@ -2,7 +2,7 @@
 
 - [Exercises and solution Array](https://www.w3resource.com/c-programming-exercises/array/index.php)
 
-- [Structur-Bangla] (https://jakir.me/struct/)
+- [Structur-Bangla](https://jakir.me/struct/)
 
 Structures ব্যবহার করে আমরা নিজেদের মত করে ডেটা স্ট্রাকচার তৈরি করতে পারব। এবং ঐখানে ইচ্ছে মত একের অধিক ভিন্ন ভিন্ন ডেটা রাখতে পারব।
 
