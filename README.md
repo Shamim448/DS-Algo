@@ -21,3 +21,5 @@ Return Value: the strcpy() function returns a pointer to the destination string.
 - [Pointer](https://jakir.me/c-pointers/)
 
 ### Referance:
+
+Just another name of a variable. which is point variable address.
