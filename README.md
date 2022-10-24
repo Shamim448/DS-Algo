@@ -17,3 +17,7 @@ dest: Pointer to the destination array where the content is to be copied.
 src: string which will be copied.
 
 Return Value: the strcpy() function returns a pointer to the destination string.
+
+- [Pointer](https://jakir.me/c-pointers/)
+
+### Referance:
