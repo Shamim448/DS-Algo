@@ -23,3 +23,4 @@ Return Value: the strcpy() function returns a pointer to the destination string.
 ### Referance:
 
 Just another name of a variable. which is point variable address.
+- [Function Book](https://jakir.me/c-functions/)
